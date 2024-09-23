@@ -25,7 +25,7 @@
 4. [Chapter IV](#chapter-iv) 
 
 
-## Chapter I
+# Chapter I
 
 ## Readme!
 
@@ -154,7 +154,7 @@
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## List 1.
 
@@ -216,7 +216,7 @@
 ***LOADING…***
 
 
-## Chapter III
+# Chapter III
 
 ## Quest 1. Clone.
 
@@ -431,7 +431,7 @@ _**== Получен Quest 7. Создать ветки в git согласно 
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
 \> *Готово*
 
