@@ -1,0 +1,6 @@
+
+
+touch Quest5.txt
+
+chmod u+x door_1.conf
+nano door_1.conf
